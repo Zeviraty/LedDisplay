@@ -25,4 +25,4 @@ Begin like this (also for 64x64):
 if you have other board sizes check the pxmatrix documentation
 
 ## Fixes for specific boards
-Check all switch positions what worked for me was all down.
+Check all switch positions what worked for me was all up.
